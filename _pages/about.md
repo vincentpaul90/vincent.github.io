@@ -11,7 +11,7 @@ classes: wide
 
 - 🔭 I’m currently working on **Diagnostic Analytics**
 
-- 🌱 I’m currently learning **Gen AI, LLM**
+- 🌱 I’m currently learning **LLMs, Gen AI**
 
 - 👯 I’m looking to collaborate on **projects in healthcare to improve patient outcomes**
 
