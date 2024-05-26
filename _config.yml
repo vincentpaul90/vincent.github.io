@@ -21,7 +21,7 @@ repository               : "https://vineet-kumar-tennessee.github.io/vineet.gith
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "vineet_thumb_dektop.jpg"
   name             : "Vineet Kumar"
   pronouns         : "he/him/his"  
   bio              : "Transforming complex medical data into actionable insights, revolutionizing patient care with expertise and creativity"
