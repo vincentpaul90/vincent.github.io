@@ -1,5 +1,12 @@
+---
+title: "Home"
+permalink: /
+layout: single
+classes: wide
+---
+
 <h1 align="center">Hi 👋, I'm Vineet</h1>
-<h3 align="center">A passionate Healthcare Data Scientist </h3>
+<h3 align="center">A passionate Healthcare Data Scientist</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineet-kumar-tennessee&label=Profile%20views&color=0e75b6&style=flat" alt="vineet-kumar-tennessee" /> </p>
 
@@ -20,6 +27,3 @@ About Me
 A Healthcare Data Scientist with a flair for diagnostic analytics. Right now, I'm diving into the wild world of prior authorization trends and their effects on prescription drug use and costs. Imagine me as a data detective, uncovering the secrets hidden in EHRs and administrative databases.
 
 Previously, I worked magic with chemometrics and statistical process control, turning complex data into optimized product quality and efficiency. Armed with Python, Databricks, and Tableau, I create visualizations and models that even my tea-addicted machine learning buddy would applaud. Let's innovate in healthcare together!
-
-
-
