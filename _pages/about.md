@@ -27,7 +27,7 @@ A Healthcare Data Analyst (Statistical Sherlock!) with a flair for large languag
 
 Previously, I worked magic with chemo-metrics and statistical process control, turning complex data into optimized product quality and efficiency. Armed with Python, Databricks, and Tableau, I create visualizations and models that even my tea-addicted machine learning buddy would applaud. Let's innovate in healthcare together!
 
-<h3 align="left">Key Languages and Modules Used:</h3>
+<h3 align="left">Key Languages and Libraries Used:</h3>
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
