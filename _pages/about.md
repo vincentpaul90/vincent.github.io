@@ -10,14 +10,14 @@ classes: wide
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 I’m currently working on **Diagnostic Analytics**
+  
+- ✨ I believe my most important skill is **storytelling**
 
 - 🌱 I’m currently learning **LLMs, Gen AI**
 
 - 👯 I’m looking to collaborate on **projects in healthcare to improve patient outcomes**
 
 - 🤝 I’m looking for help with **teaching my machine learning models to diagnose my tea addiction! ☕🤖**
-
-- 💬 Ask me about **Databricks**
 
 - ⚡ Fun fact **I once built a machine learning model to predict the best ice cream flavors, and kids helped me test it by eating all the samples! 🍦🤖👶**
 
