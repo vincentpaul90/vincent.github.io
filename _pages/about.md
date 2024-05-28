@@ -76,7 +76,7 @@ Previously, I worked magic with chemo-metrics and statistical process control, t
 </a>
 </p>
 
-<h3 align="left">Key Data Analysis and Machine Learning Techniques:</h3>
+<h3 align="left">Key Data Analysis and Machine Learning Techniques Used:</h3>
 <table style="border-collapse: collapse; width: 100%;">
     <thead>
         <tr style="background-color: #4CAF50; color: white;">
