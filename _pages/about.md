@@ -44,9 +44,6 @@ Previously, I worked magic with chemo-metrics and statistical process control, t
     <a href="https://numpy.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="60" height="60"/> 
     </a> 
-    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
-        <img src="https://www.r-project.org/Rlogo.png" alt="r language" width="60" height="60"/> 
-    </a> 
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="60" height="60"/> 
     </a> 
@@ -67,6 +64,9 @@ Previously, I worked magic with chemo-metrics and statistical process control, t
     </a> 
     <a href="https://plotly.com/" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
         <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="plotly" width="60" height="60"/> 
+    </a> 
+       <a href="https://www.r-project.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
+        <img src="https://www.r-project.org/Rlogo.png" alt="r language" width="60" height="60"/> 
     </a> 
 </p>
 
