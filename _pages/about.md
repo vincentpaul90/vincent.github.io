@@ -65,9 +65,91 @@ Previously, I worked magic with chemo-metrics and statistical process control, t
     <a href="https://plotly.com/" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
         <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="plotly" width="60" height="60"/> 
     </a> 
-       <a href="https://www.r-project.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
+    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
         <img src="https://www.r-project.org/Rlogo.png" alt="r language" width="60" height="60"/> 
     </a> 
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vineet-kumar-tennessee&label=Profile%20views&color=0e75b6&style=flat" alt="vineet-kumar-tennessee" /> </p>
+<h3 align="left" style="color: #4CAF50; font-family: 'Arial', sans-serif; text-shadow: 2px 2px 4px #000000;">Key Data Analysis and Machine Learning Techniques:</h3>
+<table>
+    <tr>
+        <th>Category</th>
+        <th>Techniques</th>
+    </tr>
+    <tr>
+        <td>Data Analysis Techniques</td>
+        <td>
+            <ul>
+                <li>Descriptive Statistics</li>
+                <li>Exploratory Data Analysis (EDA)</li>
+                <li>Hypothesis Testing</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>Machine Learning Techniques</td>
+        <td>
+            <ul>
+                <li>Regression
+                    <ul>
+                        <li>Linear Regression</li>
+                        <li>Logistic Regression</li>
+                    </ul>
+                </li>
+                <li>Classification
+                    <ul>
+                        <li>Decision Trees</li>
+                        <li>Random Forest</li>
+                        <li>Support Vector Machines (SVM)</li>
+                        <li>K-Nearest Neighbors (KNN)</li>
+                    </ul>
+                </li>
+                <li>Clustering
+                    <ul>
+                        <li>K-Means</li>
+                        <li>Hierarchical Clustering</li>
+                    </ul>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>Deep Learning Techniques</td>
+        <td>
+            <ul>
+                <li>Artificial Neural Networks (ANN)</li>
+                <li>Convolutional Neural Networks (CNN)</li>
+                <li>Recurrent Neural Networks (RNN)</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>Natural Language Processing (NLP) Techniques</td>
+        <td>
+            <ul>
+                <li>Text Preprocessing</li>
+                <li>Text Classification
+                    <ul>
+                        <li>Sentiment Analysis</li>
+                    </ul>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>Model Evaluation Techniques</td>
+        <td>
+            <ul>
+                <li>Cross-Validation</li>
+                <li>Confusion Matrix</li>
+                <li>ROC Curve and AUC</li>
+                <li>Precision, Recall, and F1-Score</li>
+                <li>Mean Squared Error (MSE)</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=vineet-kumar-tennessee&label=Profile%20views&color=0e75b6&style=flat" alt="vineet-kumar-tennessee" /> 
+</p>
