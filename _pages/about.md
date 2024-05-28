@@ -23,7 +23,7 @@ classes: wide
 
 About Me
 ======
-A Healthcare Data Scientist with a flair for large language models. Right now, I'm diving into the wild world of prior authorization trends and their effects on prescription drug use and costs. Imagine me as a data detective, uncovering the secrets hidden in EHRs and administrative databases.
+A Healthcare Data Analyst (Statistical Sherlock!) with a flair for large language models. Right now, I'm diving into the wild world of prior authorization trends and their effects on prescription drug use and costs. Imagine me as a data detective, uncovering the secrets hidden in EHRs and administrative databases.
 
 Previously, I worked magic with chemo-metrics and statistical process control, turning complex data into optimized product quality and efficiency. Armed with Python, Databricks, and Tableau, I create visualizations and models that even my tea-addicted machine learning buddy would applaud. Let's innovate in healthcare together!
 
