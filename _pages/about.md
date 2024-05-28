@@ -65,9 +65,15 @@ Previously, I worked magic with chemo-metrics and statistical process control, t
     <a href="https://plotly.com/" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
         <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="plotly" width="60" height="60"/> 
     </a> 
-    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
-        <img src="https://www.r-project.org/Rlogo.png" alt="r language" width="60" height="60"/> 
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="60" height="60"/> 
     </a> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" width="60" height="60"/> 
+</a> 
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
+    <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" alt="tableau" width="60" height="60"/> 
+</a>
 </p>
 
 <h3 align="left">Key Data Analysis and Machine Learning Techniques:</h3>
