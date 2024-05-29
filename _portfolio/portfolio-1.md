@@ -18,5 +18,8 @@ This project focuses on the interaction between the probe and the sample surface
 
 This project utilizes advanced data analytics, precise modeling techniques, and detailed visualizations to explore and present the complex interactions at the nanoscale level.
 
+<br clear="left"/>
 <img align="left" alt="Probe-Sample Interaction" width="600" src="https://vineet-kumar-tennessee.github.io/vineet.github.io/images/p1_viz1.png">
-[Read the full paper here](https://opg.optica.org/ao/abstract.cfm?uri=ao-57-9-2150)
+<br clear="left"/>
+
+[Link to full article](https://opg.optica.org/ao/abstract.cfm?uri=ao-57-9-2150)
