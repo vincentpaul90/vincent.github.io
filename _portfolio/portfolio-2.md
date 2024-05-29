@@ -26,7 +26,7 @@ This project showcases data handling and visualization techniques from the paper
 3. **Simulation Results**: Displaying FDTD simulation results of the nanotip's plasmonic response.
 
 <br clear="left"/>
-<img align="left" alt="Experimental Setup" width="600" src="https://github.com/vineet-kumar-tennessee/vineet.github.io/blob/master/images/p2_viz1.png">
+<img align="left" alt="Experimental Setup" length="100" width="600" src="https://github.com/vineet-kumar-tennessee/vineet.github.io/blob/master/images/p2_viz1.png">
 <br clear="left"/>
 
 [Link to full article](https://iopscience.iop.org/article/10.1088/1367-2630/aba85b/pdf)
