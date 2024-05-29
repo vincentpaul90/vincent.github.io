@@ -2,7 +2,7 @@
 title: "Analytics, Modeling, and Visualization in 'Green’s function for a sharpened and metal-coated dielectric probe'"
 excerpt: "Highlighting key points of data analytics, modeling, and visualization from the article<br/><img src='/images/500x300.png'>"
 collection: portfolio
-date: 2018-10
+date: 2018-10-01
 ---
 
 This project focuses on the interaction between the probe and the sample surface in apertureless scanning-probe optical microscopy. Key points include:
