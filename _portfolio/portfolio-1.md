@@ -1,6 +1,6 @@
 ---
 title: "Analytics, Modeling, and Visualization in 'Green’s function for a sharpened and metal-coated dielectric probe'"
-excerpt: "Highlighting key points of data analytics, modeling, and visualization from the article<br/><img src='/images/500x300.png'>"
+excerpt: "Data analytics, modeling, and visualization"
 collection: portfolio
 date: 2018-03-01
 ---
