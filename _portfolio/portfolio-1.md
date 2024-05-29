@@ -20,4 +20,4 @@ This project utilizes advanced data analytics, precise modeling techniques, and 
 
 ![Figure: Visualization of Probe-Sample Interaction](https://github.com/vineet-kumar-tennessee/vineet.github.io/blob/master/images/p1_viz1.png)
 
-[Read the full paper here](https://pubmed.ncbi.nlm.nih.gov/29604004/)
+[Read the full paper here](https://doi.org/10.1364/AO.57.002150)
