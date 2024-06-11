@@ -32,6 +32,9 @@ Previously, I worked magic with chemo-metrics and statistical process control, t
     <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
     </a> 
+<a href="https://databricks.com/" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
+    <img src="https://databricks.com/wp-content/uploads/2021/10/db-nav-logo.svg" alt="databricks" width="60" height="60"/> 
+</a>
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="60" height="60"/> 
     </a> 
