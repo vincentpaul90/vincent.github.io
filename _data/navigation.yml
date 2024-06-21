@@ -9,7 +9,7 @@ main:
  #   url: /teaching/    
     
   - title: "My Articles"
-    url: /portfolio/
+    url: /my_articles/
         
   - title: "Blog Posts"
     url: /year-archive/
