@@ -3,10 +3,11 @@ main:
   - title: "Certifications"
     url: /publications/
   
-  - title: "Talks"
+  - title: "Projects"
     url: /talks/    
-  - title: "Teaching"
-    url: /teaching/    
+    
+#  - title: "Teaching"
+#    url: /teaching/    
     
   - title: "My Articles"
     url: /my_articles/
