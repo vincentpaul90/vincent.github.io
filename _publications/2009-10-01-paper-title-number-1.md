@@ -1,7 +1,7 @@
 ---
-title: "Certificate of Completion: Data Science with Databricks for Data Analysts"
+title: "Data Science with Databricks"
 ---
 
-# Certificate of Completion: Data Science with Databricks for Data Analysts
+# Ana;ytics with use of unified platform built on Apache Spark
 
 <iframe src="https://github.com/vineet-kumar-tennessee/vineet.github.io/blob/master/images/c0.pdf" width="100%" height="600px"></iframe>
