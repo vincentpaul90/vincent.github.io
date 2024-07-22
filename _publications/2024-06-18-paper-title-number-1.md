@@ -1,5 +1,6 @@
 ---
 title: "Predictive Analytics"
+date: 2024-06-21
 ---
 
 ## Regression || Classification || Clustering || Front-end development
