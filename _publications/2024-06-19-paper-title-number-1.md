@@ -1,6 +1,5 @@
 ---
 title: "Spark SQL in Databricks"
-date: 2024-07-22
 ---
 
 ## Apache Saprk SQL || Databricks || Cloud Computing 
