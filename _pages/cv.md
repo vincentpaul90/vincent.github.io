@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical Engineering (Analytics & Simulation), University of Tennessee, TN 2019 
-* M.S. in Medical Physics, University of Tennessee, TN 2014
-* Associate Degree  in Biomedical Sciences, GSB Chandigarh, India 2011
+* M.S. in Statistical Physics & Computational Science, University of Tennessee, TN, USA 2014
+* Associate Degree in Alternative Medicine (Biomedical Sciences), National Academy of Naturopathy, India 2011
 
 ## Work Experience
 
