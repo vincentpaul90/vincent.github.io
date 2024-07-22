@@ -1,5 +1,5 @@
 ---
-title: "Data Science with Databricks"
+title: "Spark SQL in Databricks"
 ---
 
 ## Apache Saprk SQL || Databricks || Cloud Computing 
