@@ -12,7 +12,7 @@ title                    : "Vineet's Homepage"
 title_separator          : "-"
 name                     : &name "Vineet Kumar"
 description              : &description "personal description"
-url                      : https://vineet-kumar-tennessee.github.io/vineet.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://vincentpaul90.github.io/vineet.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://vineet-kumar-tennessee.github.io/vineet.github.io/"
 
