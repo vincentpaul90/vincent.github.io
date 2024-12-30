@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Vineet's Homepage"
+title                    : "Vin's Homepage"
 title_separator          : "-"
-name                     : &name "Vineet Kumar"
+name                     : &name "Vincent Paul"
 description              : &description "personal description"
 url                      : https://vincentpaul90.github.io/vineet.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://vineet-kumar-tennessee.github.io/vineet.github.io/"
+repository               : "https://github.com/vincentpaul90/vincent.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,13 +22,13 @@ repository               : "https://vineet-kumar-tennessee.github.io/vineet.gith
 author:
   # Biographic information
   avatar           : "vin.jpg"
-  name             : "Vineet Kumar"
+  name             : "Vincent Paul"
   pronouns         : "he/him/his"  
   bio              : "Transforming complex medical data into actionable insights, improving patient care with creativity!"
-  location         : "Boston, MA"
+  location         : "Franklin, TN"
   employer         : "University of Tennessee, TN"
   uri              : # URL
-  email            : "vkhullar@alum.utk.edu" 
+  email            : "vincentpaul.vin1990@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
